@@ -1,8 +1,8 @@
-package com.example.webservicesassessmenttask1server.service;
+package com.example.webservicesassessmenttask2.service;
 
-import com.example.webservicesassessmenttask1server.entity.Student;
-import com.example.webservicesassessmenttask1server.entity.Subject;
-import com.example.webservicesassessmenttask1server.repository.SubjectRepository;
+import com.example.webservicesassessmenttask2.entity.Student;
+import com.example.webservicesassessmenttask2.entity.Subject;
+import com.example.webservicesassessmenttask2.repository.SubjectRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

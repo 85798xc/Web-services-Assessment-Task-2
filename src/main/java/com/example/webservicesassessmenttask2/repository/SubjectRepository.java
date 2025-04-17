@@ -1,6 +1,6 @@
-package com.example.webservicesassessmenttask1server.repository;
+package com.example.webservicesassessmenttask2.repository;
 
-import com.example.webservicesassessmenttask1server.entity.Subject;
+import com.example.webservicesassessmenttask2.entity.Subject;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

@@ -1,6 +1,6 @@
-package com.example.webservicesassessmenttask1server.mapper;
+package com.example.webservicesassessmenttask2.mapper;
 
-import com.example.webservicesassessmenttask1server.entity.Student;
+import com.example.webservicesassessmenttask2.entity.Student;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Marshaller;

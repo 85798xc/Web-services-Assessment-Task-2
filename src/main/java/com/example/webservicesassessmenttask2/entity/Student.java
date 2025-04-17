@@ -1,4 +1,4 @@
-package com.example.webservicesassessmenttask1server.entity;
+package com.example.webservicesassessmenttask2.entity;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;

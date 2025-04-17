@@ -1,7 +1,7 @@
-package com.example.webservicesassessmenttask1server.service;
+package com.example.webservicesassessmenttask2.service;
 
-import com.example.webservicesassessmenttask1server.entity.Student;
-import com.example.webservicesassessmenttask1server.mapper.XMLMapper;
+import com.example.webservicesassessmenttask2.entity.Student;
+import com.example.webservicesassessmenttask2.mapper.XMLMapper;
 import jakarta.xml.bind.JAXBException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

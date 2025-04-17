@@ -1,4 +1,4 @@
-package com.example.webservicesassessmenttask1server.entity;
+package com.example.webservicesassessmenttask2.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
