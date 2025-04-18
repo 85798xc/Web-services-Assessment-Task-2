@@ -22,6 +22,11 @@ dependencies {
     implementation("org.liquibase:liquibase-core")
     implementation("jakarta.xml.bind:jakarta.xml.bind-api:4.0.0")
     implementation("org.glassfish.jaxb:jaxb-runtime:4.0.3")
+    implementation("javax.ws.rs:javax.ws.rs-api:2.1.1")
+    implementation("jakarta.jws:jakarta.jws-api:3.0.0")
+    implementation("org.apache.cxf:cxf-spring-boot-starter-jaxws:4.0.2")
+    implementation("org.springframework.boot:spring-boot-starter-web")
+
 
 
     runtimeOnly("org.postgresql:postgresql")
